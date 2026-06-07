@@ -2,7 +2,7 @@
 
 ## Project Screenshot
 
-![College Enquiry Chatbot](project_poster.jpeg,reference_img1.jpeg,reference_img2.jpeg,reference_img3.jpeg)
+![College Enquiry Chatbot](project_poster.jpeg)
 
 ## Overview
 
