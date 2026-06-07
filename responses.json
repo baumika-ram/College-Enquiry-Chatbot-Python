@@ -1,0 +1,21 @@
+{
+    "fees": "College fees details available in office",
+    "course": "Courses: CSE, IT, AI&DS, ECE",
+    "placement": "Placement training starts from 3rd year",
+    "admission": "Admission through counselling",
+    "hostel": "Hostel facility available",
+    "contact": "Contact: 9876543210",
+    "timing": "Office timing: 9 AM - 4 PM",
+    "library": "Library open till 6 PM",
+    "courses":"Available Courses:\n• BSc Data Science\n• BCA\n• IT\n• BSc COMPUTER SCIENCE",
+    "placement_info":"Top Recruiters:\n• TCS\n• Infosys\n• Wipro\n• Zoho\n\nPlacement Assistance Available",
+    "hai":"Hello Welcome to College Enquiry Chatbot!",
+    "hello":"Hi 😊 Ask about Fees, Courses, Admission...",
+    "hi":"Hello! How can I help you?",
+    "thanks":"You're welcome 😊",
+    "thank you":"Glad to help 😄",
+    "bye":"Thank you for visiting! 👋",
+    "about":"College Name: XYZ College\nEstablished: 2005\nAffiliated: ABC University\nLocation: Madurai",
+    "principal":"Principal: Dr. ABC\nExperience: 15 years",
+    "facilities":"Available:\n• Library\n• Lab\n• Hostel\n• WiFi\n• Sports"
+}
