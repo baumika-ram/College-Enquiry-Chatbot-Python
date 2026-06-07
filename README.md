@@ -1,5 +1,9 @@
 # College Enquiry Chatbot Using Python
 
+## Project Screenshot
+
+![College Enquiry Chatbot](project_poster.jpeg,reference_img1.jpeg,reference_img2.jpeg,reference_img3.jpeg)
+
 ## Overview
 
 This is a GUI-based college enquiry chatbot developed using Python and Tkinter.
@@ -41,3 +45,7 @@ COLLEGE CHATBOT
 - Database Integration
 - AI-based Responses
 - Voice Support
+
+  ## Project Screenshot
+
+
